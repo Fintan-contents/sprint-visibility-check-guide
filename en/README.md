@@ -1,4 +1,4 @@
-# Sprint outlook confirmation guide
+# Sprint visibility check guide
 
 ## Overview
 
