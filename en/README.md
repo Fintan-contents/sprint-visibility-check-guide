@@ -13,13 +13,13 @@
 
  * Cases in which you need to confirm how much time your team has for development when starting a sprint. 
  * Cases in which scheduled time away, such as time off or training and workshops, needs to be taken into account when determining development hours. 
-   * 	This document makes it easier for team members to take time off and allocate time for studying.
+   * 	This makes it easier for team members to take time off and allocate time for studying.
  * Cases in which the development hours for each sprint need to be ascertained before the sprint starts and checked against the planned man-hours needed for backlog to prevent overworking. 
    * This document can be used to judge whether work that cannot be completed in a particular sprint should be carried in the next sprint instead.
    * Conversely, it also enables backlog for the next sprint to be cleared early if there are development hours left over.
  * Cases in which it is necessary to determine whether the team can confidently start and finish a sprint based on man-hours. 
 
-## How to use this document
+## How to use this sheet
 
  1. Open the calculation sheet for team development hours in each sprint.  
     [Calculation_sheet_for_team_development_hours_in_each_sprint.xlsx](./docs/Calculation_sheet_for_team_development_hours_in_each_sprint.xlsx?raw=true)  
@@ -34,7 +34,7 @@
 
 ## When to use this document
 
- * After completion of the second phase of sprint planning (planning and decomposition)
+ * After completion of the second phase of sprint planning (planning and decomposing task)
    * Check the team’s total development hours against the planned man-hours for the sprint to judge whether the workload is feasible. 
  * Daily scrums
    * Check the team’s remaining development hours against the remaining tasks (total remaining working hours) for the sprint to confirm the outlook (whether the pace is achievable).
